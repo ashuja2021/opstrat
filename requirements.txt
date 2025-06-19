@@ -1,5 +1,8 @@
-matplotlib==3.4.2
-numpy==1.21.0
-pandas==1.2.5
-seaborn==0.11.1
-yfinance==0.1.59  
+matplotlib>=3.4.2
+numpy>=1.21.0
+pandas>=1.2.5
+seaborn>=0.13.2
+yfinance>=0.1.59
+scipy>=1.0.0
+jupyter>=1.0.0  
+python-holidays>=1.17.0
